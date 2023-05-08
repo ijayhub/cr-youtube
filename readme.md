@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-    <img src="./src/img/demo.gif">
+    <img src="./src/img/project-youtube.png"/>
 </div>
 <h1  align="center" >Cr youtube💖</h1>
 <!-- TABLE OF CONTENTS -->
@@ -44,7 +44,7 @@ This web application simplifies searching and watching YouTube videos. It was bu
 
 * [Repo Codes](https://github.com/ijayhub/cr-youtube)
 
-* [Hosted Link]()
+* [Hosted Link](https://cr-youtube.netlify.app/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
